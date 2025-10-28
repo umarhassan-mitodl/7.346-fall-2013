@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains a description of the writing assignments and oral
   presentations required for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -19,7 +17,7 @@ Each week students will submit two questions—one for each assigned reading—w
 Written Assignment (Due Week 9)
 -------------------------------
 
-Each student will be required to submit a 3–4 page written assignment (double-spaced, Times New Roman, 12 pt. font, 1 inch margins). Students will choose a recent news article from a popular newspaper, magazine, or news website (e.g., the New York Times, Boston Globe, Wall Street Journal, Time magazine, or [cnn.com](http://edition.cnn.com/)) about scientific work in the field of DNA damage DNA repair, or diseases associated with unrepaired DNA damage, and then research the primary literature from which the article originated. Students will summarize the background and major findings of the study and describe why the work is relevant to or how it will contribute to advancing the DNA damage and repair field or the treatment / prevention of disease. Students will critically evaluate the experimental design used in the study and highlight the key experiment as well as key controls that allowed the authors to draw their conclusions. Students also should propose an interesting follow-up experiment, including controls that would test the authors’ conclusions. Finally, students should discuss whether the conclusions were justified based on the results and whether the popular news coverage accurately reflected the science in the primary publication upon which it was based; if not the students should discuss any misinterpretations of the data. Students are encouraged to meet with the instructors to discuss their choice of paper and should finalize their decision by Week 6.
+Each student will be required to submit a 3–4 page written assignment (double-spaced, Times New Roman, 12 pt. font, 1 inch margins). Students will choose a recent news article from a popular newspaper, magazine, or news website (e.g., the New York Times, Boston Globe, Wall Street Journal, Time magazine, or {{% resource_link "87ebc420-8043-4db0-85f7-4a8164447104" "cnn.com" %}}) about scientific work in the field of DNA damage DNA repair, or diseases associated with unrepaired DNA damage, and then research the primary literature from which the article originated. Students will summarize the background and major findings of the study and describe why the work is relevant to or how it will contribute to advancing the DNA damage and repair field or the treatment / prevention of disease. Students will critically evaluate the experimental design used in the study and highlight the key experiment as well as key controls that allowed the authors to draw their conclusions. Students also should propose an interesting follow-up experiment, including controls that would test the authors’ conclusions. Finally, students should discuss whether the conclusions were justified based on the results and whether the popular news coverage accurately reflected the science in the primary publication upon which it was based; if not the students should discuss any misinterpretations of the data. Students are encouraged to meet with the instructors to discuss their choice of paper and should finalize their decision by Week 6.
 
 Oral Presentations (Due Week 13)
 --------------------------------
